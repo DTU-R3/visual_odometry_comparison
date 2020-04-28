@@ -1,4 +1,4 @@
-# visual_odometry_comparision
+# visual_odometry_comparison
 
 The folder contains the scripts to process the visual odometry data and plot the results.
 
